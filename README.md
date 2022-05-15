@@ -4,4 +4,4 @@ Exercício para treinar a criação de sites fazendo a clonagem de um já existe
 
                                 AVISO!! ---ainda em faze de desenvolvimento---
 
-Sugestão são bem-vindas
+Sugestão são bem-vindas.
